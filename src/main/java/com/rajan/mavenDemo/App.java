@@ -19,7 +19,9 @@ public class App
 		
 		System.out.println( "Hello World8-dev!" );
 
-System.out.println( "Hello World8-dev----person 2!" );		
+System.out.println( "Hello World8-dev----person 2!" );	
+System.out.println( "Added in master !" );		
+
 		
 		
     }
